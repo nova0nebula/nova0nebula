@@ -1,4 +1,4 @@
-### <div align="center">I'm ᑎOᐯᗩ ᑎEᗷᑌᒪᗩ, a freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm ᑎOᐯᗩ ᑎEᗷᑌᒪᗩ, a freelance developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on a custom Python terminal website  
