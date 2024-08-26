@@ -1,7 +1,7 @@
 ### <div align="center">I'm ᑎOᐯᗩ ᑎEᗷᑌᒪᗩ, a freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a custom Python terminal website  
+- 🔭 I’m currently working on [Ventura](https://github.com/nova0nebula/Ventura)
   
 
 - 🌱 I’m currently learning Javascript  
