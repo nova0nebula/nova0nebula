@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=nova0nebula&show_icons=true&theme=dark)
+
 # 💫 About Me:
 Name: **nova0nebula** <br>
 Pronouns: **he/him** <br>
