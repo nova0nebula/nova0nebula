@@ -1,9 +1,13 @@
 # 💫 About Me:
 Name: **nova0nebula** <br>
-
-
+Pronouns: **he/him** <br>
 Country: **🇸🇬 - Singapore** <br>
 Timezone: **GMT +8** <br>
+
+I am a freelance developer and programmer. <br>
+An interesting fact about me is that I also have expertise in robotics. <br>
+
+For support or inquiries, feel free to reach out via email at CosmicNovaNebula@gmail.com. <br>
 
 
 ## 🌐 Socials:
@@ -19,12 +23,8 @@ Timezone: **GMT +8** <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nova0nebula&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nova0nebula&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ###
 
