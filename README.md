@@ -1,4 +1,4 @@
-![nova0nebula](https://socialify.git.ci/nova0nebula/nova0nebula/image?name=1&owner=1&pattern=Floating%20Cogs&theme=Auto)
+![nova0nebula](https://socialify.git.ci/nova0nebula/nova0nebula/image?name=1&pattern=Floating%20Cogs&theme=Auto)
 
 # 💫 About Me:
 Name: **nova0nebula** <br>
