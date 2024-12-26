@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Name: **nova0nebula** <br>
-Pronouns: **he/him** <br>
+Pronouns: **she/her** <br>
 Country: **🇸🇬 - Singapore** <br>
 Timezone: **GMT +8** <br>
 
