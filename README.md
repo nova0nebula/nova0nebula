@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a Freelance Back-End Developer from Singapore</p>
+<p align="left">I'm a Freelance Developer from Singapore</p>
 
 More about me: [Website](https://nova0nebula.github.io/)
 
