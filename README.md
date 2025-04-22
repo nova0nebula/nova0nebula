@@ -6,8 +6,6 @@
 
 <p align="left">I'm a Freelance Developer from Singapore</p>
 
-More about me: [Website](https://nova0nebula.github.io/)
-
 ###
 
 <div align="left">
